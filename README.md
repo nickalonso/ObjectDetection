@@ -1,1 +1,1 @@
-# ObjectDetection
+# Collection of Examples
